@@ -1,7 +1,7 @@
 # Store-Data-Analysis
 Analyzed Vrinda Store transaction data to uncover sales trends, customer demographics, and regional performance. Key insights include gender-based spending patterns, state-wise sales, and channel performance. Completed using Excel to derive actionable business insights.
 
-## Features
+## Features on set
  **Sales Analysis**: Total revenue, order counts, and category-wise performance.
  **Demographics Insights**: Gender and age group-based customer segmentation.
  **Regional Insights**: State-wise sales trends and top-performing regions.
